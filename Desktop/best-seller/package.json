@@ -2,7 +2,7 @@
   "name": "best-seller",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost/9000",
+  "proxy": "http://localhost/9999",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
