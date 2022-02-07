@@ -1,8 +1,31 @@
 const fs = require("fs");
+const db = require("../server/knex");
 (async () => {
-  const books = await JSON.parse(fs.readFileSync("data/books.json"));
-  console.log("hehe");
+  try {
+    let books = await JSON.parse(fs.readFileSync("data/books.json"));
+    console.log("hehe");
+    books = books.results;
 
-  //   console.log(books.results);
-  console.log(books.results.length);
+    for (let idx in books) {
+      const book = books[idx];
+      const title = book.title ? book.title : "No value";
+      const description = book.description ? book.description : "No value";
+      const author = book.author ? book.author : "No value";
+      let rank;
+      if (book["ranks_history"].length !== 0) {
+        rank = book["ranks_history"][0] ? book["ranks_history"][0]["rank"] : 0;
+      } else rank = 0;
+
+      const result = await db("books").insert({
+        title,
+        description,
+        author,
+        rank,
+      });
+      console.log(book);
+      console.log(rank);
+    }
+  } catch (err) {
+    console.error("Error was detected" + err);
+  }
 })();

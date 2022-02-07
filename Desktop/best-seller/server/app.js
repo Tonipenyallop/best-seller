@@ -6,7 +6,7 @@ const app = express();
 const key = "SlOsacbQTdULdbFeVXvA22C0xuO8kFva";
 const a = require("../data/import");
 
-app.get("/", async (_, res) => {
+app.get("/books", async (_, res) => {
   //   console.log(a);
   res.send("afafa");
 });

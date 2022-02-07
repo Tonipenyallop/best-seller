@@ -5,9 +5,10 @@
 exports.up = function (knex) {
   return knex.schema.createTable("books", (table) => {
     table.increments().index;
-    table.text("title");
-    table.text("title");
-    table.text("title");
+    table.text("title").nullable;
+    table.text("description").nullable;
+    table.text("author").nullable;
+    table.integer("rank").nullable;
   });
 };
 
