@@ -5,7 +5,7 @@ This app is for seaching the bestseller books from New York Times
 
 ## Usage
 
-1.Click the filter button to find truck stops you would like to search for. The app is going to get the result dynamically
+Search the book you are looking for from input field. Also you can see the bestseller in lastweek or the book the most likes by other users
 
 ## Contributing
 
