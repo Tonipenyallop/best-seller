@@ -73,10 +73,13 @@ function App() {
         <div>
           <Dropdown
             className="dropdown"
-            options={rankings
-              .map((rank) => rank.title)
-              .sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()))}
+            options={rankings.map((rank) => {
+              console.log(rank["rank"]);
+              // return [`Rank:${rank["rank"]} `, rank.title];
+              return rank.title;
+            })}
             onChange={(e) => {
+              console.log(rankings);
               setSearchedTitle(e.value);
               setDisplayMode("filter");
             }}

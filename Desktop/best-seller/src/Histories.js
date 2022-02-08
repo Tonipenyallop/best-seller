@@ -6,7 +6,7 @@ export default function Histories({ books, input }) {
       {books
         .filter((book) => book.title.includes(input))
         .map((book, idx) => (
-          <div key={idx}>
+          <div className="imgs" key={idx}>
             <div>Title : {book.title}</div>
             <div>Author : {book.author}</div>
             <div>Description : {book.description}</div>

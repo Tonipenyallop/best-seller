@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 export default function Ranking({ rankings }) {
   return rankings.map((rank, idx) => {
     return (
-      <div key={idx}>
+      <div className="imgs" key={idx}>
         <img src={rank["url"]}></img>
         <div> Title: {rank.title}</div>
         <div> Author: {rank.author}</div>

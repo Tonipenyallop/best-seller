@@ -6,7 +6,7 @@ export default function FilteredImage({ searchedTitle, rankings }) {
   return (
     <div>
       {filteredImg.map((img, idx) => (
-        <div key={idx}>
+        <div className="imgs" key={idx}>
           <img src={img["url"]}></img>
           <div> Title: {img.title}</div>
           <div> Author: {img.author}</div>

@@ -12,11 +12,11 @@ export default function LikesOrder({ sortedBooks, setIsClicked, isClicked }) {
           return b.likes - a.likes;
         })
         .map((book, idx) => (
-          <div key={idx}>
+          <div className="imgs" key={idx}>
             <div>Title : {book.title}</div>
             <div>Author : {book.author}</div>
             <div>Description : {book.description}</div>
-            Likes : {book.likes}
+            <div>Likes : {book.likes}</div>
             <button
               onClick={(e) => {
                 setIsClicked(!isClicked);
