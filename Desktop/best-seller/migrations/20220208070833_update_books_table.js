@@ -4,7 +4,7 @@
  */
 exports.up = async function (knex) {
   return knex.schema.table("books", function (table) {
-    table.integer("likes").notNull();
+    table.integer("likes");
   });
 };
 
