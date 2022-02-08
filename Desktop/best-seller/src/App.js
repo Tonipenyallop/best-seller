@@ -8,6 +8,7 @@ import Dropdown from "react-dropdown";
 import Ranking from "./Ranking";
 import FilteredImage from "./FilteredImage";
 import Histories from "./Histories";
+import LikesOrder from "./LikesOrder";
 
 function App() {
   const [books, setBooks] = useState([]);
@@ -15,6 +16,8 @@ function App() {
   const [searchedTitle, setSearchedTitle] = useState("");
   const [displayMode, setDisplayMode] = useState("rankings");
   const [input, setInput] = useState("");
+  const [sortedBooks, setSortedBetBooks] = useState([]);
+  const [isClicked, setIsClicked] = useState(false);
 
   const reqBooks = () => {
     axios({
@@ -23,18 +26,29 @@ function App() {
     })
       .then((res) => {
         console.log(res.data);
+        setSortedBetBooks(res.data);
         return setBooks(res.data);
       })
       .catch((err) => console.error(`axios get error ${err}`));
   };
+
+  const reqSortedBooks = () => {
+    axios({
+      method: "get",
+      url: "http://localhost:9999/api/books",
+    })
+      .then((res) => {
+        return setSortedBetBooks(res.data);
+      })
+      .catch((err) => console.error(`axios get err ${err}`));
+  };
+
   const reqRankings = () => {
     axios({
       method: "get",
       url: "http://localhost:9999/api/rankings",
     })
       .then((res) => {
-        console.log("jejejej");
-        console.log(res.data);
         return setRankings(res.data);
       })
       .catch((err) => console.error(`axios get err ${err}`));
@@ -42,8 +56,11 @@ function App() {
 
   useEffect(() => {
     reqBooks();
+    reqSortedBooks();
     reqRankings();
   }, []);
+
+  console.log(rankings);
 
   return (
     <div>
@@ -80,7 +97,11 @@ function App() {
           <Histories books={books} input={input} />
         </div>
       ) : (
-        "likes mode"
+        <LikesOrder
+          sortedBooks={sortedBooks}
+          setIsClicked={setIsClicked}
+          isClicked={isClicked}
+        />
       )}
     </div>
   );

@@ -4,7 +4,7 @@ const db = require("../server/knex");
   try {
     let rankings = await JSON.parse(fs.readFileSync("data/ranking.json"));
     console.log("rankings");
-    console.log(db.select().from("rankings"));
+
     rankings = rankings.results.books;
 
     for (let idx in rankings) {
