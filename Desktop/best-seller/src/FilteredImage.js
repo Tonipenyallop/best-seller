@@ -11,6 +11,7 @@ export default function FilteredImage({ searchedTitle, rankings }) {
           <div> Title: {img.title}</div>
           <div> Author: {img.author}</div>
           <div> Description: {img.description}</div>
+          <div> Rank: {img.rank}</div>
         </div>
       ))}
     </div>

@@ -5,9 +5,8 @@ const db = knex({
   connection: process.env.DATABASE_URL || {
     host: "127.0.0.1",
     port: 3306,
-    user: "taesukim",
+    user: "username",
     database: "books",
-    // database: "rankings",
   },
 });
 

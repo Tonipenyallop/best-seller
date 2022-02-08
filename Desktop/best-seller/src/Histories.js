@@ -10,6 +10,8 @@ export default function Histories({ books, input }) {
             <div>Title : {book.title}</div>
             <div>Author : {book.author}</div>
             <div>Description : {book.description}</div>
+            <div>Likes : {book.likes}</div>
+
             <br></br>
           </div>
         ))}

@@ -15,17 +15,17 @@ const db = require("../server/knex");
       if (book["ranks_history"].length !== 0) {
         rank = book["ranks_history"][0] ? book["ranks_history"][0]["rank"] : 0;
       } else rank = 0;
-
+      const likes = Math.floor(Math.random() * 5000000) + 10000;
+      console.log(likes);
       const result = await db("books").insert({
         title,
         description,
         author,
         rank,
+        likes,
       });
-      // console.log(book);
-      // console.log(rank);
     }
   } catch (err) {
-    console.error("Error was detected" + err);
+    console.error("Error was detected jeje " + err);
   }
 })();
