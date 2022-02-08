@@ -8,6 +8,7 @@ module.exports = {
     client: "pg",
     connection: {
       database: "books",
+      database: "rankings",
       filename: "migrations",
     },
   },

@@ -3,12 +3,14 @@
  * @returns { Promise<void> }
  */
 exports.up = function (knex) {
-  return knex.schema.createTable("books", (table) => {
+  return knex.schema.createTable("rankings", (table) => {
     table.increments().index;
-    table.text("title").primary;
-    table.text("description").nullable;
-    table.text("author").nullable;
-    table.integer("rank").nullable;
+    table.text("title");
+    table.text("description");
+    table.text("author");
+    table.text("url");
+    table.integer("rank");
+    table.integer("rank_last_week");
   });
 };
 

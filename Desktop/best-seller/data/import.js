@@ -22,8 +22,8 @@ const db = require("../server/knex");
         author,
         rank,
       });
-      console.log(book);
-      console.log(rank);
+      // console.log(book);
+      // console.log(rank);
     }
   } catch (err) {
     console.error("Error was detected" + err);

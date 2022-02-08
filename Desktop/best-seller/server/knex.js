@@ -7,6 +7,7 @@ const db = knex({
     port: 3306,
     user: "taesukim",
     database: "books",
+    // database: "rankings",
   },
 });
 

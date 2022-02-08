@@ -2,13 +2,33 @@ const express = require("express");
 const cors = require("cors");
 const axios = require("axios");
 const fs = require("fs");
+const path = require("path");
 const app = express();
+const db = require("../server/knex");
 const key = "SlOsacbQTdULdbFeVXvA22C0xuO8kFva";
-const a = require("../data/import");
+// const a = require("../data/import");
+// const rankings = require("../data/import_ranking");
 
-app.get("/books", async (_, res) => {
-  //   console.log(a);
-  res.send("afafa");
+app.use(express.json());
+app.use(cors());
+app.use(express.static(path.resolve(__dirname, "..", "build")));
+
+app.get("/api/books", async (_, res) => {
+  try {
+    const books = await db.select().from("books");
+    res.json(books);
+  } catch (err) {
+    console.error(`Error in api/books ${err}`);
+  }
+});
+
+app.get("/api/rankings", async (_, res) => {
+  try {
+    const rankings = await db.select().from("rankings");
+    res.json(rankings);
+  } catch (err) {
+    console.error(`Error in api/rankings ${err}`);
+  }
 });
 
 module.exports = app;
