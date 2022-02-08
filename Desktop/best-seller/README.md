@@ -1,4 +1,4 @@
-# best-seller
+# Best-seller
 
 This app is for seaching the bestseller books from New York Times
 
