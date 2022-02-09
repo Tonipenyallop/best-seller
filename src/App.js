@@ -2,21 +2,18 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 
 import "./App.css";
-import MainBar from "./MainBar";
-import HistoryButton from "./HistoryButton";
 import Dropdown from "react-dropdown";
 import Ranking from "./Ranking";
 import FilteredImage from "./FilteredImage";
 import Histories from "./Histories";
 import LikesOrder from "./LikesOrder";
 import { useSelector, useDispatch } from "react-redux";
-import { hola, toggle } from "./redux/bookSlice";
+import { toggle } from "./redux/bookSlice";
 
 function App() {
   const [books, setBooks] = useState([]);
   const [rankings, setRankings] = useState([]);
   const [searchedTitle, setSearchedTitle] = useState("");
-  const [displayMode, setDisplayMode] = useState("rankings");
   const [input, setInput] = useState("");
   const [sortedBooks, setSortedBetBooks] = useState([]);
   const [isClicked, setIsClicked] = useState(false);
