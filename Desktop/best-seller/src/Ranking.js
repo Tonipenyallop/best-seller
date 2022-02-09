@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 export default function Ranking({ rankings }) {
   return rankings.map((rank, idx) => {
     return (
@@ -9,7 +9,20 @@ export default function Ranking({ rankings }) {
         <div> Description: {rank.description}</div>
         <div> Rank: {rank.rank}</div>
         <div> Rank last week: {rank.rank_last_week}</div>
-        <button>Reviews</button>
+        <div
+          onClick={(e) => {
+            if (e.target.querySelector(".review"))
+              e.target.querySelector(".review").className = "review2";
+            else e.target.className = "review";
+          }}
+        >
+          Reviews
+          <li className="review">
+            <ul>This story is amazing</ul>
+            <ul>I love the character of the story</ul>
+            <ul>You must read this book!!!</ul>
+          </li>
+        </div>
       </div>
     );
   });

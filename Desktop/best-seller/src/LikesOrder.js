@@ -1,4 +1,5 @@
 import React from "react";
+import Like from "./Like";
 
 export default function LikesOrder({ sortedBooks, setIsClicked, isClicked }) {
   const temp = sortedBooks.sort((a, b) => {
@@ -13,7 +14,16 @@ export default function LikesOrder({ sortedBooks, setIsClicked, isClicked }) {
         })
         .map((book, idx) => (
           <div className="imgs" key={idx}>
-            <div>Title : {book.title}</div>
+            <Like
+              className="like"
+              title={book.title}
+              author={book.title}
+              description={book.title}
+              likes={book.likes}
+              setIsClicked={setIsClicked}
+              isClicked={isClicked}
+            />
+            {/* <div>Title : {book.title}</div>
             <div>Author : {book.author}</div>
             <div>Description : {book.description}</div>
             <div>Likes : {book.likes}</div>
@@ -24,7 +34,7 @@ export default function LikesOrder({ sortedBooks, setIsClicked, isClicked }) {
               }}
             >
               {isClicked ? "Like❤️" : "Like♡"}
-            </button>
+            </button> */}
             <br></br>
           </div>
         ))}
