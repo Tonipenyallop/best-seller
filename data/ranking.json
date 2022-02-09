@@ -1,0 +1,987 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 15,
+    "last_modified": "2022-02-02T23:25:18-05:00",
+    "results": {
+        "list_name": "Hardcover Fiction",
+        "list_name_encoded": "hardcover-fiction",
+        "bestsellers_date": "2022-01-29",
+        "published_date": "2022-02-13",
+        "published_date_description": "latest",
+        "next_published_date": "",
+        "previous_published_date": "2022-02-06",
+        "display_name": "Hardcover Fiction",
+        "normal_list_ends_at": 15,
+        "updated": "WEEKLY",
+        "books": [
+            {
+                "rank": 1,
+                "rank_last_week": 2,
+                "weeks_on_list": 4,
+                "asterisk": 0,
+                "dagger": 0,
+                "primary_isbn10": "0593356152",
+                "primary_isbn13": "9780593356159",
+                "publisher": "Ballantine",
+                "description": "When a wealthy man is found dead in his room, a maid at the Regency Grand Hotel becomes a lead suspect.",
+                "price": "0.00",
+                "title": "THE MAID",
+                "author": "Nita Prose",
+                "contributor": "by Nita Prose",
+                "contributor_note": "",
+                "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780593356159.jpg",
+                "book_image_width": 329,
+                "book_image_height": 500,
+                "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0593356152?tag=NYTBSREV-20",
+                "age_group": "",
+                "book_review_link": "",
+                "first_chapter_link": "",
+                "sunday_review_link": "",
+                "article_chapter_link": "",
+                "isbns": [
+                    {
+                        "isbn10": "0593356152",
+                        "isbn13": "9780593356159"
+                    },
+                    {
+                        "isbn10": "0593356160",
+                        "isbn13": "9780593356166"
+                    },
+                    {
+                        "isbn10": "0593452682",
+                        "isbn13": "9780593452684"
+                    }
+                ],
+                "buy_links": [
+                    {
+                        "name": "Amazon",
+                        "url": "https:\/\/www.amazon.com\/dp\/0593356152?tag=NYTBSREV-20"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https:\/\/goto.applebooks.apple\/9780593356159?at=10lIEQ"
+                    },
+                    {
+                        "name": "Barnes and Noble",
+                        "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593356159"
+                    },
+                    {
+                        "name": "Books-A-Million",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BMAID%252FNita%252BProse%252F9780593356159&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BMAID%252BNita%252BProse"
+                    },
+                    {
+                        "name": "Bookshop",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593356159&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BMAID"
+                    },
+                    {
+                        "name": "IndieBound",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593356159%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BMAID%2BNita%2BProse%26aff%3DNYT"
+                    }
+                ],
+                "book_uri": "nyt:\/\/book\/3177f07a-ea44-50d8-a0fd-e3d56450c995"
+            },
+            {
+                "rank": 2,
+                "rank_last_week": 1,
+                "weeks_on_list": 60,
+                "asterisk": 1,
+                "dagger": 0,
+                "primary_isbn10": "0525559477",
+                "primary_isbn13": "9780525559474",
+                "publisher": "Viking",
+                "description": "Nora Seed finds a library beyond the edge of the universe that contains books with multiple possibilities of the lives one could have lived.",
+                "price": "0.00",
+                "title": "THE MIDNIGHT LIBRARY",
+                "author": "Matt Haig",
+                "contributor": "by Matt Haig",
+                "contributor_note": "",
+                "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780525559474.jpg",
+                "book_image_width": 331,
+                "book_image_height": 500,
+                "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0525559477?tag=NYTBSREV-20",
+                "age_group": "",
+                "book_review_link": "",
+                "first_chapter_link": "",
+                "sunday_review_link": "",
+                "article_chapter_link": "",
+                "isbns": [
+                    {
+                        "isbn10": "0525559477",
+                        "isbn13": "9780525559474"
+                    },
+                    {
+                        "isbn10": "0525559485",
+                        "isbn13": "9780525559481"
+                    },
+                    {
+                        "isbn10": "0655697071",
+                        "isbn13": "9780655697077"
+                    }
+                ],
+                "buy_links": [
+                    {
+                        "name": "Amazon",
+                        "url": "https:\/\/www.amazon.com\/dp\/0525559477?tag=NYTBSREV-20"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https:\/\/goto.applebooks.apple\/9780525559474?at=10lIEQ"
+                    },
+                    {
+                        "name": "Barnes and Noble",
+                        "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525559474"
+                    },
+                    {
+                        "name": "Books-A-Million",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BMIDNIGHT%252BLIBRARY%252FMatt%252BHaig%252F9780525559474&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BMIDNIGHT%252BLIBRARY%252BMatt%252BHaig"
+                    },
+                    {
+                        "name": "Bookshop",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780525559474&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BMIDNIGHT%2BLIBRARY"
+                    },
+                    {
+                        "name": "IndieBound",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780525559474%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BMIDNIGHT%2BLIBRARY%2BMatt%2BHaig%26aff%3DNYT"
+                    }
+                ],
+                "book_uri": "nyt:\/\/book\/60d0ee2d-3d05-50c9-a484-050d17a2308e"
+            },
+            {
+                "rank": 3,
+                "rank_last_week": 3,
+                "weeks_on_list": 17,
+                "asterisk": 0,
+                "dagger": 0,
+                "primary_isbn10": "0735222355",
+                "primary_isbn13": "9780735222359",
+                "publisher": "Viking",
+                "description": "Two friends who escaped from a juvenile work farm take Emmett Watson on an unexpected journey to New York City in 1954.",
+                "price": "0.00",
+                "title": "THE LINCOLN HIGHWAY",
+                "author": "Amor Towles",
+                "contributor": "by Amor Towles",
+                "contributor_note": "",
+                "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780735222359.jpg",
+                "book_image_width": 331,
+                "book_image_height": 500,
+                "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0735222355?tag=NYTBSREV-20",
+                "age_group": "",
+                "book_review_link": "",
+                "first_chapter_link": "",
+                "sunday_review_link": "",
+                "article_chapter_link": "",
+                "isbns": [
+                    {
+                        "isbn10": "0735222355",
+                        "isbn13": "9780735222359"
+                    },
+                    {
+                        "isbn10": "0735222371",
+                        "isbn13": "9780735222373"
+                    },
+                    {
+                        "isbn10": "0593452100",
+                        "isbn13": "9780593452103"
+                    },
+                    {
+                        "isbn10": "0593452097",
+                        "isbn13": "9780593452097"
+                    }
+                ],
+                "buy_links": [
+                    {
+                        "name": "Amazon",
+                        "url": "https:\/\/www.amazon.com\/dp\/0735222355?tag=NYTBSREV-20"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https:\/\/goto.applebooks.apple\/9780735222359?at=10lIEQ"
+                    },
+                    {
+                        "name": "Barnes and Noble",
+                        "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735222359"
+                    },
+                    {
+                        "name": "Books-A-Million",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BLINCOLN%252BHIGHWAY%252FAmor%252BTowles%252F9780735222359&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BLINCOLN%252BHIGHWAY%252BAmor%252BTowles"
+                    },
+                    {
+                        "name": "Bookshop",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780735222359&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BLINCOLN%2BHIGHWAY"
+                    },
+                    {
+                        "name": "IndieBound",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780735222359%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BLINCOLN%2BHIGHWAY%2BAmor%2BTowles%26aff%3DNYT"
+                    }
+                ],
+                "book_uri": "nyt:\/\/book\/43839b1f-c8cc-5ef4-8893-bd85582906a4"
+            },
+            {
+                "rank": 4,
+                "rank_last_week": 4,
+                "weeks_on_list": 3,
+                "asterisk": 0,
+                "dagger": 0,
+                "primary_isbn10": "0316499773",
+                "primary_isbn13": "9780316499774",
+                "publisher": "Little, Brown",
+                "description": "As the Paris Olympics draw near, a mother and daughter, who are champion horse riders, compete against each other.",
+                "price": "0.00",
+                "title": "THE HORSEWOMAN",
+                "author": "James Patterson and Mike Lupica",
+                "contributor": "by James Patterson and Mike Lupica",
+                "contributor_note": "",
+                "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780316499774.jpg",
+                "book_image_width": 325,
+                "book_image_height": 500,
+                "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0316499773?tag=NYTBSREV-20",
+                "age_group": "",
+                "book_review_link": "",
+                "first_chapter_link": "",
+                "sunday_review_link": "",
+                "article_chapter_link": "",
+                "isbns": [
+                    {
+                        "isbn10": "0316499773",
+                        "isbn13": "9780316499774"
+                    },
+                    {
+                        "isbn10": "0316499781",
+                        "isbn13": "9780316499781"
+                    }
+                ],
+                "buy_links": [
+                    {
+                        "name": "Amazon",
+                        "url": "https:\/\/www.amazon.com\/dp\/0316499773?tag=NYTBSREV-20"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https:\/\/goto.applebooks.apple\/9780316499774?at=10lIEQ"
+                    },
+                    {
+                        "name": "Barnes and Noble",
+                        "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316499774"
+                    },
+                    {
+                        "name": "Books-A-Million",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BHORSEWOMAN%252FJames%252BPatterson%252Band%252BMike%252BLupica%252F9780316499774&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BHORSEWOMAN%252BJames%252BPatterson%252Band%252BMike%252BLupica"
+                    },
+                    {
+                        "name": "Bookshop",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780316499774&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BHORSEWOMAN"
+                    },
+                    {
+                        "name": "IndieBound",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780316499774%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BHORSEWOMAN%2BJames%2BPatterson%2Band%2BMike%2BLupica%26aff%3DNYT"
+                    }
+                ],
+                "book_uri": "nyt:\/\/book\/5d2f23de-7533-5585-a5d6-ced5b1103c8b"
+            },
+            {
+                "rank": 5,
+                "rank_last_week": 6,
+                "weeks_on_list": 37,
+                "asterisk": 0,
+                "dagger": 0,
+                "primary_isbn10": "1501171348",
+                "primary_isbn13": "9781501171345",
+                "publisher": "Simon & Schuster",
+                "description": "Hannah Hall discovers truths about her missing husband and bonds with his daughter from a previous relationship.",
+                "price": "0.00",
+                "title": "THE LAST THING HE TOLD ME",
+                "author": "Laura Dave",
+                "contributor": "by Laura Dave",
+                "contributor_note": "",
+                "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781501171345.jpg",
+                "book_image_width": 331,
+                "book_image_height": 500,
+                "amazon_product_url": "https:\/\/www.amazon.com\/dp\/1501171348?tag=NYTBSREV-20",
+                "age_group": "",
+                "book_review_link": "",
+                "first_chapter_link": "",
+                "sunday_review_link": "",
+                "article_chapter_link": "",
+                "isbns": [
+                    {
+                        "isbn10": "1501171348",
+                        "isbn13": "9781501171345"
+                    },
+                    {
+                        "isbn10": "1501171364",
+                        "isbn13": "9781501171369"
+                    },
+                    {
+                        "isbn10": "1797124749",
+                        "isbn13": "9781797124742"
+                    },
+                    {
+                        "isbn10": "1638080992",
+                        "isbn13": "9781638080992"
+                    }
+                ],
+                "buy_links": [
+                    {
+                        "name": "Amazon",
+                        "url": "https:\/\/www.amazon.com\/dp\/1501171348?tag=NYTBSREV-20"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https:\/\/goto.applebooks.apple\/9781501171345?at=10lIEQ"
+                    },
+                    {
+                        "name": "Barnes and Noble",
+                        "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501171345"
+                    },
+                    {
+                        "name": "Books-A-Million",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BLAST%252BTHING%252BHE%252BTOLD%252BME%252FLaura%252BDave%252F9781501171345&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BLAST%252BTHING%252BHE%252BTOLD%252BME%252BLaura%252BDave"
+                    },
+                    {
+                        "name": "Bookshop",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781501171345&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BLAST%2BTHING%2BHE%2BTOLD%2BME"
+                    },
+                    {
+                        "name": "IndieBound",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781501171345%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BLAST%2BTHING%2BHE%2BTOLD%2BME%2BLaura%2BDave%26aff%3DNYT"
+                    }
+                ],
+                "book_uri": "nyt:\/\/book\/b38ae769-e873-5272-bb5a-c58a35162db1"
+            },
+            {
+                "rank": 6,
+                "rank_last_week": 7,
+                "weeks_on_list": 15,
+                "asterisk": 0,
+                "dagger": 0,
+                "primary_isbn10": "0385546025",
+                "primary_isbn13": "9780385546027",
+                "publisher": "Doubleday",
+                "description": "The second book in the Whistler series. Investigator Lacy Stoltz goes after a serial killer and closes in on a sitting judge.",
+                "price": "0.00",
+                "title": "THE JUDGE'S LIST",
+                "author": "John Grisham",
+                "contributor": "by John Grisham",
+                "contributor_note": "",
+                "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780385546027.jpg",
+                "book_image_width": 329,
+                "book_image_height": 500,
+                "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0385546025?tag=NYTBSREV-20",
+                "age_group": "",
+                "book_review_link": "",
+                "first_chapter_link": "",
+                "sunday_review_link": "",
+                "article_chapter_link": "",
+                "isbns": [
+                    {
+                        "isbn10": "0385546025",
+                        "isbn13": "9780385546027"
+                    },
+                    {
+                        "isbn10": "0385546033",
+                        "isbn13": "9780385546034"
+                    },
+                    {
+                        "isbn10": "0593168496",
+                        "isbn13": "9780593168493"
+                    },
+                    {
+                        "isbn10": "0593168488",
+                        "isbn13": "9780593168486"
+                    }
+                ],
+                "buy_links": [
+                    {
+                        "name": "Amazon",
+                        "url": "https:\/\/www.amazon.com\/dp\/0385546025?tag=NYTBSREV-20"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https:\/\/goto.applebooks.apple\/9780385546027?at=10lIEQ"
+                    },
+                    {
+                        "name": "Barnes and Noble",
+                        "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385546027"
+                    },
+                    {
+                        "name": "Books-A-Million",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BJUDGE%252527S%252BLIST%252FJohn%252BGrisham%252F9780385546027&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BJUDGE%252527S%252BLIST%252BJohn%252BGrisham"
+                    },
+                    {
+                        "name": "Bookshop",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780385546027&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BJUDGE%2527S%2BLIST"
+                    },
+                    {
+                        "name": "IndieBound",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780385546027%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BJUDGE%2527S%2BLIST%2BJohn%2BGrisham%26aff%3DNYT"
+                    }
+                ],
+                "book_uri": "nyt:\/\/book\/8b6146c8-a02e-5f1a-beb8-aaa91fcdbc6a"
+            },
+            {
+                "rank": 7,
+                "rank_last_week": 0,
+                "weeks_on_list": 1,
+                "asterisk": 0,
+                "dagger": 0,
+                "primary_isbn10": "0374212236",
+                "primary_isbn13": "9780374212230",
+                "publisher": "MCD",
+                "description": "A crime writer re-examines his work after moving into a house where a pair of briefly notorious murders took place.",
+                "price": "0.00",
+                "title": "DEVIL HOUSE",
+                "author": "John Darnielle",
+                "contributor": "by John Darnielle",
+                "contributor_note": "",
+                "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780374212230.jpg",
+                "book_image_width": 331,
+                "book_image_height": 500,
+                "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0374212236?tag=NYTBSREV-20",
+                "age_group": "",
+                "book_review_link": "",
+                "first_chapter_link": "",
+                "sunday_review_link": "",
+                "article_chapter_link": "",
+                "isbns": [
+                    {
+                        "isbn10": "0374212236",
+                        "isbn13": "9780374212230"
+                    }
+                ],
+                "buy_links": [
+                    {
+                        "name": "Amazon",
+                        "url": "https:\/\/www.amazon.com\/dp\/0374212236?tag=NYTBSREV-20"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https:\/\/goto.applebooks.apple\/9780374212230?at=10lIEQ"
+                    },
+                    {
+                        "name": "Barnes and Noble",
+                        "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780374212230"
+                    },
+                    {
+                        "name": "Books-A-Million",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FDEVIL%252BHOUSE%252FJohn%252BDarnielle%252F9780374212230&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DDEVIL%252BHOUSE%252BJohn%252BDarnielle"
+                    },
+                    {
+                        "name": "Bookshop",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780374212230&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DDEVIL%2BHOUSE"
+                    },
+                    {
+                        "name": "IndieBound",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780374212230%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DDEVIL%2BHOUSE%2BJohn%2BDarnielle%26aff%3DNYT"
+                    }
+                ],
+                "book_uri": "nyt:\/\/book\/1411c620-918e-5a7d-a90c-5d28aa0b7328"
+            },
+            {
+                "rank": 8,
+                "rank_last_week": 0,
+                "weeks_on_list": 1,
+                "asterisk": 0,
+                "dagger": 0,
+                "primary_isbn10": "0593496205",
+                "primary_isbn13": "9780593496206",
+                "publisher": "Ballantine",
+                "description": "A woman whose life spans 100 years recounts personal and historical events through letters to someone she loves.",
+                "price": "0.00",
+                "title": "VIOLETA",
+                "author": "Isabel Allende",
+                "contributor": "by Isabel Allende",
+                "contributor_note": "",
+                "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780593496206.jpg",
+                "book_image_width": 329,
+                "book_image_height": 500,
+                "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0593496205?tag=NYTBSREV-20",
+                "age_group": "",
+                "book_review_link": "",
+                "first_chapter_link": "",
+                "sunday_review_link": "",
+                "article_chapter_link": "",
+                "isbns": [
+                    {
+                        "isbn10": "0593496205",
+                        "isbn13": "9780593496206"
+                    },
+                    {
+                        "isbn10": "0593496213",
+                        "isbn13": "9780593496213"
+                    }
+                ],
+                "buy_links": [
+                    {
+                        "name": "Amazon",
+                        "url": "https:\/\/www.amazon.com\/dp\/0593496205?tag=NYTBSREV-20"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https:\/\/goto.applebooks.apple\/9780593496206?at=10lIEQ"
+                    },
+                    {
+                        "name": "Barnes and Noble",
+                        "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593496206"
+                    },
+                    {
+                        "name": "Books-A-Million",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FVIOLETA%252FIsabel%252BAllende%252F9780593496206&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DVIOLETA%252BIsabel%252BAllende"
+                    },
+                    {
+                        "name": "Bookshop",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593496206&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DVIOLETA"
+                    },
+                    {
+                        "name": "IndieBound",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593496206%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DVIOLETA%2BIsabel%2BAllende%26aff%3DNYT"
+                    }
+                ],
+                "book_uri": "nyt:\/\/book\/86f06179-594d-5a48-961c-d6bdf18d3379"
+            },
+            {
+                "rank": 9,
+                "rank_last_week": 0,
+                "weeks_on_list": 1,
+                "asterisk": 0,
+                "dagger": 0,
+                "primary_isbn10": "0593184017",
+                "primary_isbn13": "9780593184011",
+                "publisher": "Dutton",
+                "description": "An English model stumbles upon messages that might uncover the truth behind a decades-old murder in the Frick family.",
+                "price": "0.00",
+                "title": "THE MAGNOLIA PALACE",
+                "author": "Fiona Davis",
+                "contributor": "by Fiona Davis",
+                "contributor_note": "",
+                "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780593184011.jpg",
+                "book_image_width": 331,
+                "book_image_height": 500,
+                "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0593184017?tag=NYTBSREV-20",
+                "age_group": "",
+                "book_review_link": "",
+                "first_chapter_link": "",
+                "sunday_review_link": "",
+                "article_chapter_link": "",
+                "isbns": [
+                    {
+                        "isbn10": "0593184017",
+                        "isbn13": "9780593184011"
+                    },
+                    {
+                        "isbn10": "0593184025",
+                        "isbn13": "9780593184028"
+                    }
+                ],
+                "buy_links": [
+                    {
+                        "name": "Amazon",
+                        "url": "https:\/\/www.amazon.com\/dp\/0593184017?tag=NYTBSREV-20"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https:\/\/goto.applebooks.apple\/9780593184011?at=10lIEQ"
+                    },
+                    {
+                        "name": "Barnes and Noble",
+                        "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593184011"
+                    },
+                    {
+                        "name": "Books-A-Million",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BMAGNOLIA%252BPALACE%252FFiona%252BDavis%252F9780593184011&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BMAGNOLIA%252BPALACE%252BFiona%252BDavis"
+                    },
+                    {
+                        "name": "Bookshop",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593184011&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BMAGNOLIA%2BPALACE"
+                    },
+                    {
+                        "name": "IndieBound",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593184011%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BMAGNOLIA%2BPALACE%2BFiona%2BDavis%26aff%3DNYT"
+                    }
+                ],
+                "book_uri": "nyt:\/\/book\/338abae6-8e24-51d3-95be-9e045e408d3b"
+            },
+            {
+                "rank": 10,
+                "rank_last_week": 8,
+                "weeks_on_list": 13,
+                "asterisk": 0,
+                "dagger": 0,
+                "primary_isbn10": "006288834X",
+                "primary_isbn13": "9780062888341",
+                "publisher": "Harper",
+                "description": "After a ship explodes, 10 people struggling to survive pull a man who claims to be the Lord out of the sea.",
+                "price": "0.00",
+                "title": "THE STRANGER IN THE LIFEBOAT",
+                "author": "Mitch Albom",
+                "contributor": "by Mitch Albom",
+                "contributor_note": "",
+                "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780062888341.jpg",
+                "book_image_width": 345,
+                "book_image_height": 500,
+                "amazon_product_url": "https:\/\/www.amazon.com\/dp\/006288834X?tag=NYTBSREV-20",
+                "age_group": "",
+                "book_review_link": "",
+                "first_chapter_link": "",
+                "sunday_review_link": "",
+                "article_chapter_link": "",
+                "isbns": [
+                    {
+                        "isbn10": "006288834X",
+                        "isbn13": "9780062888341"
+                    }
+                ],
+                "buy_links": [
+                    {
+                        "name": "Amazon",
+                        "url": "https:\/\/www.amazon.com\/dp\/006288834X?tag=NYTBSREV-20"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https:\/\/goto.applebooks.apple\/9780062888341?at=10lIEQ"
+                    },
+                    {
+                        "name": "Barnes and Noble",
+                        "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062888341"
+                    },
+                    {
+                        "name": "Books-A-Million",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BSTRANGER%252BIN%252BTHE%252BLIFEBOAT%252FMitch%252BAlbom%252F9780062888341&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BSTRANGER%252BIN%252BTHE%252BLIFEBOAT%252BMitch%252BAlbom"
+                    },
+                    {
+                        "name": "Bookshop",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780062888341&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BSTRANGER%2BIN%2BTHE%2BLIFEBOAT"
+                    },
+                    {
+                        "name": "IndieBound",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780062888341%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BSTRANGER%2BIN%2BTHE%2BLIFEBOAT%2BMitch%2BAlbom%26aff%3DNYT"
+                    }
+                ],
+                "book_uri": "nyt:\/\/book\/bd831017-3ff8-51b6-bbb5-0e4b7d43f62d"
+            },
+            {
+                "rank": 11,
+                "rank_last_week": 9,
+                "weeks_on_list": 9,
+                "asterisk": 0,
+                "dagger": 0,
+                "primary_isbn10": "1984818414",
+                "primary_isbn13": "9781984818416",
+                "publisher": "Ballantine",
+                "description": "Diana O\u2019Toole re-evaluates her seemingly perfect life when a pandemic disrupts her vacation in the Gal\u00e1pagos Islands.",
+                "price": "0.00",
+                "title": "WISH YOU WERE HERE",
+                "author": "Jodi Picoult",
+                "contributor": "by Jodi Picoult",
+                "contributor_note": "",
+                "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781984818416.jpg",
+                "book_image_width": 328,
+                "book_image_height": 500,
+                "amazon_product_url": "https:\/\/www.amazon.com\/dp\/1984818414?tag=NYTBSREV-20",
+                "age_group": "",
+                "book_review_link": "",
+                "first_chapter_link": "",
+                "sunday_review_link": "",
+                "article_chapter_link": "",
+                "isbns": [
+                    {
+                        "isbn10": "1984818414",
+                        "isbn13": "9781984818416"
+                    },
+                    {
+                        "isbn10": "1432893084",
+                        "isbn13": "9781432893088"
+                    }
+                ],
+                "buy_links": [
+                    {
+                        "name": "Amazon",
+                        "url": "https:\/\/www.amazon.com\/dp\/1984818414?tag=NYTBSREV-20"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https:\/\/goto.applebooks.apple\/9781984818416?at=10lIEQ"
+                    },
+                    {
+                        "name": "Barnes and Noble",
+                        "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984818416"
+                    },
+                    {
+                        "name": "Books-A-Million",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FWISH%252BYOU%252BWERE%252BHERE%252FJodi%252BPicoult%252F9781984818416&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DWISH%252BYOU%252BWERE%252BHERE%252BJodi%252BPicoult"
+                    },
+                    {
+                        "name": "Bookshop",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781984818416&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DWISH%2BYOU%2BWERE%2BHERE"
+                    },
+                    {
+                        "name": "IndieBound",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781984818416%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DWISH%2BYOU%2BWERE%2BHERE%2BJodi%2BPicoult%26aff%3DNYT"
+                    }
+                ],
+                "book_uri": "nyt:\/\/book\/eff76fe5-0935-53ce-8916-7775ab8a4707"
+            },
+            {
+                "rank": 12,
+                "rank_last_week": 12,
+                "weeks_on_list": 18,
+                "asterisk": 0,
+                "dagger": 0,
+                "primary_isbn10": "1982168439",
+                "primary_isbn13": "9781982168438",
+                "publisher": "Scribner",
+                "description": "An interconnected cast of dreamers and outsiders are in dangerous and disparate settings past, present and future.",
+                "price": "0.00",
+                "title": "CLOUD CUCKOO LAND",
+                "author": "Anthony Doerr",
+                "contributor": "by Anthony Doerr",
+                "contributor_note": "",
+                "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781982168438.jpg",
+                "book_image_width": 331,
+                "book_image_height": 500,
+                "amazon_product_url": "https:\/\/www.amazon.com\/dp\/1982168439?tag=NYTBSREV-20",
+                "age_group": "",
+                "book_review_link": "",
+                "first_chapter_link": "",
+                "sunday_review_link": "",
+                "article_chapter_link": "",
+                "isbns": [
+                    {
+                        "isbn10": "1982168439",
+                        "isbn13": "9781982168438"
+                    },
+                    {
+                        "isbn10": "1982168455",
+                        "isbn13": "9781982168452"
+                    },
+                    {
+                        "isbn10": "1797128523",
+                        "isbn13": "9781797128528"
+                    }
+                ],
+                "buy_links": [
+                    {
+                        "name": "Amazon",
+                        "url": "https:\/\/www.amazon.com\/dp\/1982168439?tag=NYTBSREV-20"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https:\/\/goto.applebooks.apple\/9781982168438?at=10lIEQ"
+                    },
+                    {
+                        "name": "Barnes and Noble",
+                        "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982168438"
+                    },
+                    {
+                        "name": "Books-A-Million",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FCLOUD%252BCUCKOO%252BLAND%252FAnthony%252BDoerr%252F9781982168438&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DCLOUD%252BCUCKOO%252BLAND%252BAnthony%252BDoerr"
+                    },
+                    {
+                        "name": "Bookshop",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781982168438&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DCLOUD%2BCUCKOO%2BLAND"
+                    },
+                    {
+                        "name": "IndieBound",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781982168438%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DCLOUD%2BCUCKOO%2BLAND%2BAnthony%2BDoerr%26aff%3DNYT"
+                    }
+                ],
+                "book_uri": "nyt:\/\/book\/d7de00f6-afc5-58c4-b106-0dcb33c8eed9"
+            },
+            {
+                "rank": 13,
+                "rank_last_week": 11,
+                "weeks_on_list": 8,
+                "asterisk": 0,
+                "dagger": 0,
+                "primary_isbn10": "0593465067",
+                "primary_isbn13": "9780593465066",
+                "publisher": "Viking",
+                "description": "A debut collection of poems on identity and history by the presidential inaugural poet who wrote \u201cThe Hill We Climb.\u201d",
+                "price": "0.00",
+                "title": "CALL US WHAT WE CARRY",
+                "author": "Amanda Gorman",
+                "contributor": "by Amanda Gorman",
+                "contributor_note": "",
+                "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780593465066.jpg",
+                "book_image_width": 333,
+                "book_image_height": 500,
+                "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0593465067?tag=NYTBSREV-20",
+                "age_group": "",
+                "book_review_link": "",
+                "first_chapter_link": "",
+                "sunday_review_link": "",
+                "article_chapter_link": "",
+                "isbns": [
+                    {
+                        "isbn10": "0593465067",
+                        "isbn13": "9780593465066"
+                    },
+                    {
+                        "isbn10": "0593465075",
+                        "isbn13": "9780593465073"
+                    }
+                ],
+                "buy_links": [
+                    {
+                        "name": "Amazon",
+                        "url": "https:\/\/www.amazon.com\/dp\/0593465067?tag=NYTBSREV-20"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https:\/\/goto.applebooks.apple\/9780593465066?at=10lIEQ"
+                    },
+                    {
+                        "name": "Barnes and Noble",
+                        "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593465066"
+                    },
+                    {
+                        "name": "Books-A-Million",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FCALL%252BUS%252BWHAT%252BWE%252BCARRY%252FAmanda%252BGorman%252F9780593465066&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DCALL%252BUS%252BWHAT%252BWE%252BCARRY%252BAmanda%252BGorman"
+                    },
+                    {
+                        "name": "Bookshop",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593465066&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DCALL%2BUS%2BWHAT%2BWE%2BCARRY"
+                    },
+                    {
+                        "name": "IndieBound",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593465066%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DCALL%2BUS%2BWHAT%2BWE%2BCARRY%2BAmanda%2BGorman%26aff%3DNYT"
+                    }
+                ],
+                "book_uri": "nyt:\/\/book\/3e090d85-4386-52fe-bc51-cc99652375f7"
+            },
+            {
+                "rank": 14,
+                "rank_last_week": 14,
+                "weeks_on_list": 17,
+                "asterisk": 0,
+                "dagger": 0,
+                "primary_isbn10": "1538728621",
+                "primary_isbn13": "9781538728628",
+                "publisher": "Grand Central",
+                "description": "Maggie Dawes, a renowned travel photographer, struggles with a medical diagnosis over Christmas.",
+                "price": "0.00",
+                "title": "THE WISH",
+                "author": "Nicholas Sparks",
+                "contributor": "by Nicholas Sparks",
+                "contributor_note": "",
+                "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781538728628.jpg",
+                "book_image_width": 330,
+                "book_image_height": 500,
+                "amazon_product_url": "https:\/\/www.amazon.com\/dp\/1538728621?tag=NYTBSREV-20",
+                "age_group": "",
+                "book_review_link": "",
+                "first_chapter_link": "",
+                "sunday_review_link": "",
+                "article_chapter_link": "",
+                "isbns": [
+                    {
+                        "isbn10": "1538728621",
+                        "isbn13": "9781538728628"
+                    },
+                    {
+                        "isbn10": "1478992689",
+                        "isbn13": "9781478992684"
+                    },
+                    {
+                        "isbn10": "1549109200",
+                        "isbn13": "9781549109201"
+                    },
+                    {
+                        "isbn10": "154919383X",
+                        "isbn13": "9781549193835"
+                    }
+                ],
+                "buy_links": [
+                    {
+                        "name": "Amazon",
+                        "url": "https:\/\/www.amazon.com\/dp\/1538728621?tag=NYTBSREV-20"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https:\/\/goto.applebooks.apple\/9781538728628?at=10lIEQ"
+                    },
+                    {
+                        "name": "Barnes and Noble",
+                        "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538728628"
+                    },
+                    {
+                        "name": "Books-A-Million",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BWISH%252FNicholas%252BSparks%252F9781538728628&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BWISH%252BNicholas%252BSparks"
+                    },
+                    {
+                        "name": "Bookshop",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781538728628&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BWISH"
+                    },
+                    {
+                        "name": "IndieBound",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781538728628%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BWISH%2BNicholas%2BSparks%26aff%3DNYT"
+                    }
+                ],
+                "book_uri": "nyt:\/\/book\/28cad580-eb4e-512f-a790-9fd5eddd45d4"
+            },
+            {
+                "rank": 15,
+                "rank_last_week": 5,
+                "weeks_on_list": 2,
+                "asterisk": 0,
+                "dagger": 0,
+                "primary_isbn10": "0593185412",
+                "primary_isbn13": "9780593185414",
+                "publisher": "Dutton",
+                "description": "The second book in the Frankie Elkin series. Frankie searches for a young man who went missing during a bachelor party camping trip.",
+                "price": "0.00",
+                "title": "ONE STEP TOO FAR",
+                "author": "Lisa Gardner",
+                "contributor": "by Lisa Gardner",
+                "contributor_note": "",
+                "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780593185414.jpg",
+                "book_image_width": 331,
+                "book_image_height": 500,
+                "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0593185412?tag=NYTBSREV-20",
+                "age_group": "",
+                "book_review_link": "",
+                "first_chapter_link": "",
+                "sunday_review_link": "",
+                "article_chapter_link": "",
+                "isbns": [
+                    {
+                        "isbn10": "0593185412",
+                        "isbn13": "9780593185414"
+                    },
+                    {
+                        "isbn10": "0593185420",
+                        "isbn13": "9780593185421"
+                    }
+                ],
+                "buy_links": [
+                    {
+                        "name": "Amazon",
+                        "url": "https:\/\/www.amazon.com\/dp\/0593185412?tag=NYTBSREV-20"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https:\/\/goto.applebooks.apple\/9780593185414?at=10lIEQ"
+                    },
+                    {
+                        "name": "Barnes and Noble",
+                        "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593185414"
+                    },
+                    {
+                        "name": "Books-A-Million",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FONE%252BSTEP%252BTOO%252BFAR%252FLisa%252BGardner%252F9780593185414&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DONE%252BSTEP%252BTOO%252BFAR%252BLisa%252BGardner"
+                    },
+                    {
+                        "name": "Bookshop",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593185414&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DONE%2BSTEP%2BTOO%2BFAR"
+                    },
+                    {
+                        "name": "IndieBound",
+                        "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593185414%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DONE%2BSTEP%2BTOO%2BFAR%2BLisa%2BGardner%26aff%3DNYT"
+                    }
+                ],
+                "book_uri": "nyt:\/\/book\/9ea72972-de65-57fd-813c-7ad03570a6b3"
+            }
+        ],
+        "corrections": []
+    }
+}
