@@ -9,6 +9,8 @@ import Ranking from "./Ranking";
 import FilteredImage from "./FilteredImage";
 import Histories from "./Histories";
 import LikesOrder from "./LikesOrder";
+import { useSelector, useDispatch } from "react-redux";
+import { decrement, increment, incrementByAmount } from "./redux/counter";
 
 function App() {
   const [books, setBooks] = useState([]);
@@ -19,6 +21,8 @@ function App() {
   const [sortedBooks, setSortedBetBooks] = useState([]);
   const [isClicked, setIsClicked] = useState(false);
 
+  const { count } = useSelector((state) => state.counter);
+  const dispatch = useDispatch();
   const reqBooks = () => {
     axios({
       method: "get",
@@ -60,11 +64,14 @@ function App() {
     reqRankings();
   }, []);
 
-  console.log(rankings);
-
   return (
     <div>
       <h1>Best Sellers</h1>
+      <div>The count is {count}</div>
+      <button onClick={() => dispatch(increment())}>+</button>
+      <button onClick={() => dispatch(decrement())}>-</button>
+      <button onClick={() => dispatch(incrementByAmount(777))}>?</button>
+
       <MainBar setDisplayMode={setDisplayMode} />
       <HistoryButton setDisplayMode={setDisplayMode} />
       <button onClick={() => setDisplayMode("likes")}>Likes</button>
@@ -74,8 +81,6 @@ function App() {
           <Dropdown
             className="dropdown"
             options={rankings.map((rank) => {
-              console.log(rank["rank"]);
-              // return [`Rank:${rank["rank"]} `, rank.title];
               return rank.title;
             })}
             onChange={(e) => {

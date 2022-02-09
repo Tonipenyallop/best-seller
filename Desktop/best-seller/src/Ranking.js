@@ -9,6 +9,7 @@ export default function Ranking({ rankings }) {
         <div> Description: {rank.description}</div>
         <div> Rank: {rank.rank}</div>
         <div> Rank last week: {rank.rank_last_week}</div>
+        <button>Reviews</button>
       </div>
     );
   });
