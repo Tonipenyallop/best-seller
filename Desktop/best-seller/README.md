@@ -2,6 +2,14 @@
 
 This app is for seaching the bestseller books from New York Times
 
+## Installation
+
+Use the node package manager [npm](https://www.npmjs.com/) to install express. axios, knex and cors.
+
+```bash
+npm i express axios knex cors
+```
+
 
 ## Usage
 
