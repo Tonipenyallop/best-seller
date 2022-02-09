@@ -17,8 +17,8 @@ export default function LikesOrder({ sortedBooks, setIsClicked, isClicked }) {
             <Like
               className="like"
               title={book.title}
-              author={book.title}
-              description={book.title}
+              author={book.author}
+              description={book.description}
               likes={book.likes}
               setIsClicked={setIsClicked}
               isClicked={isClicked}
