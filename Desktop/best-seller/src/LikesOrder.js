@@ -20,21 +20,7 @@ export default function LikesOrder({ sortedBooks, setIsClicked, isClicked }) {
               author={book.author}
               description={book.description}
               likes={book.likes}
-              setIsClicked={setIsClicked}
-              isClicked={isClicked}
             />
-            {/* <div>Title : {book.title}</div>
-            <div>Author : {book.author}</div>
-            <div>Description : {book.description}</div>
-            <div>Likes : {book.likes}</div>
-            <button
-              onClick={(e) => {
-                setIsClicked(!isClicked);
-                // parseInt(e.target.value) + 1;
-              }}
-            >
-              {isClicked ? "Like❤️" : "Like♡"}
-            </button> */}
             <br></br>
           </div>
         ))}
