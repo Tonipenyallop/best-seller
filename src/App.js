@@ -9,6 +9,8 @@ import Ranking from "./Ranking";
 import FilteredImage from "./FilteredImage";
 import Histories from "./Histories";
 import LikesOrder from "./LikesOrder";
+import { useSelector, useDispatch } from "react-redux";
+import { hola, toggle } from "./redux/bookSlice";
 
 function App() {
   const [books, setBooks] = useState([]);
@@ -18,6 +20,9 @@ function App() {
   const [input, setInput] = useState("");
   const [sortedBooks, setSortedBetBooks] = useState([]);
   const [isClicked, setIsClicked] = useState(false);
+
+  const book = useSelector((state) => state.book);
+  const dispatch = useDispatch();
 
   const reqBooks = () => {
     axios({
@@ -63,11 +68,12 @@ function App() {
   return (
     <div>
       <h1>Best Sellers</h1>
-      <MainBar setDisplayMode={setDisplayMode} />
-      <HistoryButton setDisplayMode={setDisplayMode} />
-      <button onClick={() => setDisplayMode("likes")}>Likes</button>
 
-      {displayMode === "rankings" ? (
+      <button onClick={() => dispatch(toggle("rankings"))}>Main</button>
+      <button onClick={() => dispatch(toggle("histories"))}>History</button>
+      <button onClick={() => dispatch(toggle("likes"))}>Likes</button>
+
+      {book.mode === "rankings" ? (
         <div>
           <Dropdown
             className="dropdown"
@@ -77,14 +83,15 @@ function App() {
             onChange={(e) => {
               console.log(rankings);
               setSearchedTitle(e.value);
-              setDisplayMode("filter");
+              dispatch(toggle("filter"));
+              // setDisplayMode("filter");
             }}
           />
           <Ranking rankings={rankings} />
         </div>
-      ) : displayMode === "filter" ? (
+      ) : book.mode === "filter" ? (
         <FilteredImage searchedTitle={searchedTitle} rankings={rankings} />
-      ) : displayMode === "histories" ? (
+      ) : book.mode === "histories" ? (
         <div>
           <input
             type="text"

@@ -1,8 +1,9 @@
 import { createSlice } from "@reduxjs/toolkit";
-import axios from "axios";
 
 const initialState = {
-  rankingBooks: [],
+  rank: 0,
+  rankedBook: [],
+  mode: "rankings",
 };
 
 export const bookSlice = createSlice({
@@ -10,14 +11,16 @@ export const bookSlice = createSlice({
   initialState,
   reducers: {
     hola: (state, action) => {
-      state.rankingBooks.push(action.payload);
-      console.log("hola was called");
-      console.log(state.rankingBooks);
+      state.rank += action.payload;
+    },
+    toggle: (state, action) => {
+      state.mode = action.payload;
+      console.log(state.mode);
     },
   },
 });
 
 // Action creators are generated for each case reducer function
-export const { hola } = bookSlice.actions;
+export const { hola, toggle } = bookSlice.actions;
 
 export default bookSlice.reducer;
